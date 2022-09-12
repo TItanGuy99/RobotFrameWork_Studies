@@ -1,0 +1,372 @@
+Invalid port. Exiting...
+1662907286558	geckodriver	INFO	Listening on 127.0.0.1:62933
+1662907289625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileTlKTwn"
+1662907290212	Marionette	INFO	Marionette enabled
+1662907290221	Marionette	INFO	Listening on port 62943
+WebDriver BiDi listening on ws://localhost:62934
+Read port: 62943
+1662907290510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileTlKTwn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62934/devtools/browser/fc240a94-8b3a-499d-874a-f4246ef9bc6f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662907307298	Marionette	INFO	Stopped listening on port 62943
+1662910220777	geckodriver	INFO	Listening on 127.0.0.1:63868
+1662910223835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileDSua2q"
+1662910224561	Marionette	INFO	Marionette enabled
+1662910224570	Marionette	INFO	Listening on port 63878
+WebDriver BiDi listening on ws://localhost:63869
+Read port: 63878
+1662910224909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileDSua2q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63869/devtools/browser/a6bc2a3f-9f03-47cb-8aca-44502340488a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662910233888	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662910235149	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662910241231	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662910243573	Marionette	INFO	Stopped listening on port 63878
+1662916285692	geckodriver	INFO	Listening on 127.0.0.1:64612
+1662916288745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofilei5yNVK"
+1662916289340	Marionette	INFO	Marionette enabled
+1662916289348	Marionette	INFO	Listening on port 64622
+WebDriver BiDi listening on ws://localhost:64613
+Read port: 64622
+1662916289610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofilei5yNVK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64613/devtools/browser/08882759-1be9-400a-a8f3-665c162dcb23
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662916306253	Marionette	INFO	Stopped listening on port 64622
+!!! error running onStopped callback: TypeError: callback is not a function
+1662916377806	geckodriver	INFO	Listening on 127.0.0.1:64665
+1662916380861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64666" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofile6ox69v"
+1662916381348	Marionette	INFO	Marionette enabled
+1662916381358	Marionette	INFO	Listening on port 64676
+WebDriver BiDi listening on ws://localhost:64666
+Read port: 64676
+1662916381621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofile6ox69v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64666/devtools/browser/a6de3ab9-14e8-4cec-8d4e-813e850c37cb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662916386315	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662916390482	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662916391641	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662916397720	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662916400002	Marionette	INFO	Stopped listening on port 64676
+1662916571581	geckodriver	INFO	Listening on 127.0.0.1:64773
+1662916574627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofilera7K9z"
+1662916575101	Marionette	INFO	Marionette enabled
+1662916575109	Marionette	INFO	Listening on port 64783
+WebDriver BiDi listening on ws://localhost:64774
+Read port: 64783
+1662916575379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofilera7K9z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64774/devtools/browser/2c5e175d-d5b5-4456-834e-8e1e5f6e5cb9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662916580413	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662916584714	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662916585764	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662916591563	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662916593827	Marionette	INFO	Stopped listening on port 64783
+1662916794748	geckodriver	INFO	Listening on 127.0.0.1:64842
+1662916797809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileRUXHUV"
+1662916798291	Marionette	INFO	Marionette enabled
+1662916798299	Marionette	INFO	Listening on port 64853
+WebDriver BiDi listening on ws://localhost:64843
+Read port: 64853
+1662916798567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileRUXHUV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64843/devtools/browser/656ac24b-a6d7-46d9-a34d-75089fc31b40
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 3531 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662916807255	Marionette	INFO	Stopped listening on port 64853
+1662916815389	geckodriver	INFO	Listening on 127.0.0.1:64912
+1662916818456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileFsHZjk"
+1662916818932	Marionette	INFO	Marionette enabled
+1662916818940	Marionette	INFO	Listening on port 64922
+WebDriver BiDi listening on ws://localhost:64913
+Read port: 64922
+1662916819227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileFsHZjk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64913/devtools/browser/d90e6289-1562-494c-9921-a0d37a45482e
+1662916824261	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 2930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662916829428	Marionette	INFO	Stopped listening on port 64922
+JavaScript error: , line 0: uncaught exception: Object
+1662916830894	geckodriver	INFO	Listening on 127.0.0.1:64977
+1662916833942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofiley2obT1"
+1662916834523	Marionette	INFO	Marionette enabled
+1662916834533	Marionette	INFO	Listening on port 64987
+WebDriver BiDi listening on ws://localhost:64978
+Read port: 64987
+1662916834912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofiley2obT1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64978/devtools/browser/a1ff9181-cee4-439c-86e5-1032d5e27e3c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662916928418	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662916932361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662916933558	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662916939342	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662916941606	Marionette	INFO	Stopped listening on port 64987
+[Parent 1092, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662917072671	geckodriver	INFO	Listening on 127.0.0.1:65060
+1662917075723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofilevEK57H"
+1662917076290	Marionette	INFO	Marionette enabled
+1662917076299	Marionette	INFO	Listening on port 65070
+WebDriver BiDi listening on ws://localhost:65061
+Read port: 65070
+1662917076570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofilevEK57H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65061/devtools/browser/12387ed1-ee6e-4757-8f81-7029b3f8212b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662917082592	Marionette	INFO	Stopped listening on port 65070
+1662917100082	geckodriver	INFO	Listening on 127.0.0.1:65100
+1662917103135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileuQt7mI"
+1662917103625	Marionette	INFO	Marionette enabled
+1662917103633	Marionette	INFO	Listening on port 65110
+WebDriver BiDi listening on ws://localhost:65101
+Read port: 65110
+1662917103902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileuQt7mI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65101/devtools/browser/e5b25974-dd31-46bd-8681-a2b4e407980e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662917109903	Marionette	INFO	Stopped listening on port 65110
+1662917111148	geckodriver	INFO	Listening on 127.0.0.1:65138
+1662917114195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileua4yDd"
+1662917115019	Marionette	INFO	Marionette enabled
+1662917115031	Marionette	INFO	Listening on port 65148
+WebDriver BiDi listening on ws://localhost:65139
+Read port: 65148
+1662917115465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileua4yDd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65139/devtools/browser/363d76b7-3905-4273-8b09-afce3be1b981
+1662917120296	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 371 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662917125437	Marionette	INFO	Stopped listening on port 65148
+1662917126766	geckodriver	INFO	Listening on 127.0.0.1:65200
+1662917129804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofiley3wJ2n"
+1662917130304	Marionette	INFO	Marionette enabled
+1662917130313	Marionette	INFO	Listening on port 65210
+WebDriver BiDi listening on ws://localhost:65201
+Read port: 65210
+1662917130609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofiley3wJ2n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65201/devtools/browser/467008b1-5816-42b8-8216-196b819ea0e3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662917135054	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662917139032	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662917140225	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662917146024	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662917148290	Marionette	INFO	Stopped listening on port 65210
+[Parent 6948, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1662918222260	geckodriver	INFO	Listening on 127.0.0.1:65325
+1662918225319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileLzkhMr"
+1662918225964	Marionette	INFO	Marionette enabled
+1662918225972	Marionette	INFO	Listening on port 65335
+WebDriver BiDi listening on ws://localhost:65326
+Read port: 65335
+1662918226259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileLzkhMr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65326/devtools/browser/8a88120b-710c-4179-a0aa-ad697de8fe8e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662918230851	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662918232489	Marionette	INFO	Stopped listening on port 65335
+[Parent 1160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\luiz_\AppData\Local\Temp\rust_mozprofileLzkhMr\protections.sqlite
+1662918233732	geckodriver	INFO	Listening on 127.0.0.1:65363
+1662918236766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileNpUQ0T"
+1662918237289	Marionette	INFO	Marionette enabled
+1662918237297	Marionette	INFO	Listening on port 65373
+WebDriver BiDi listening on ws://localhost:65364
+Read port: 65373
+1662918237600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileNpUQ0T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65364/devtools/browser/79e3ecc7-998f-4d5a-bc18-3e1c88c3437f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662918245713	Marionette	INFO	Stopped listening on port 65373
+1662918247006	geckodriver	INFO	Listening on 127.0.0.1:65406
+1662918250049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofiled45fi5"
+1662918250579	Marionette	INFO	Marionette enabled
+1662918250587	Marionette	INFO	Listening on port 65416
+WebDriver BiDi listening on ws://localhost:65407
+Read port: 65416
+1662918250901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofiled45fi5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65407/devtools/browser/547b1748-4937-48aa-85dc-5787200c0b9c
+1662918256102	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662918261627	Marionette	INFO	Stopped listening on port 65416
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\luiz_\AppData\Local\Temp\rust_mozprofiled45fi5\protections.sqlite
+1662924652562	geckodriver	INFO	Listening on 127.0.0.1:50031
+1662924655617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50032" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileFyg9lp"
+1662924656152	Marionette	INFO	Marionette enabled
+1662924656163	Marionette	INFO	Listening on port 50041
+WebDriver BiDi listening on ws://localhost:50032
+Read port: 50041
+1662924656446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofileFyg9lp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50032/devtools/browser/c8c8e1c2-1713-4a20-a7f1-ab77c221f16f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662924667434	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662924668455	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662924674540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662924676852	Marionette	INFO	Stopped listening on port 50041
+1662925514371	geckodriver	INFO	Listening on 127.0.0.1:50238
+1662925517429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofile5PJqit"
+1662925517915	Marionette	INFO	Marionette enabled
+1662925517924	Marionette	INFO	Listening on port 50248
+WebDriver BiDi listening on ws://localhost:50239
+Read port: 50248
+1662925518199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\luiz_\\AppData\\Local\\Temp\\rust_mozprofile5PJqit\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50239/devtools/browser/1dd21305-882c-4103-84e7-6bcb75589be6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662925523879	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1662925530441	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 62: Error: Can't find profile directory.
+1662925531637	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662925537473	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1662925539758	Marionette	INFO	Stopped listening on port 50248
